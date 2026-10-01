@@ -1,3 +1,5 @@
+#Programa que calcula el promedio de notas de varios alumnos y determina si aprobaron o reprobaron
+
 alumnos=int(input("Ingrese la cantidad de alumnos: "))
 for i in range(alumnos):
     nombre=input("Ingrese el nombre del alumno: ")
